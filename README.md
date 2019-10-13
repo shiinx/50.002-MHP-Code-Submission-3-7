@@ -3,6 +3,7 @@
 1D Mini Hardware Project  
 Team 3-7 Submission  
   
+## Team Members  
 Poh Shi Hui  
 Seyong Park  
 Zhou Yu Tang  
